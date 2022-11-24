@@ -168,6 +168,19 @@
 				"yellowCards": 1,
 				"redCards": 0
 			}
+		},
+		{
+			"idMatch": 13,
+			"localResults": {
+				"goals": 0,
+				"yellowCards": 1,
+				"redCards": 0
+			},
+			"visitorResults": {
+				"goals": 0,
+				"yellowCards": 1,
+				"redCards": 0
+			}
 		}
 	]
 }
