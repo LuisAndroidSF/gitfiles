@@ -1,6 +1,6 @@
 {
 	"version": 11290143,
-	"results": [
+	"list": [
 		{
 			"idMatch": 0,
 			"localResults": {
@@ -414,6 +414,71 @@
 			"visitorResults": {
 				"goals": 0,
 				"yellowCards": 2,
+				"redCards": 0
+			}
+		},
+		{
+			"idMatch": 32,
+			"localResults": {
+				"goals": 1,
+				"yellowCards": 0,
+				"redCards": 0
+			},
+			"visitorResults": {
+				"goals": 2,
+				"yellowCards": 1,
+				"redCards": 0
+			}
+		},
+		{
+			"idMatch": 33,
+			"localResults": {
+				"goals": 2,
+				"yellowCards": 1,
+				"redCards": 0
+			},
+			"visitorResults": {
+				"goals": 0,
+				"yellowCards": 0,
+				"redCards": 0
+			}
+		},
+		{
+			"idMatch": 34,
+			"localResults": {
+				"goals": 0,
+				"yellowCards": 2,
+				"redCards": 0
+			},
+			"visitorResults": {
+				"goals": 3,
+				"yellowCards": 0,
+				"redCards": 0
+			}
+		},
+		{
+			"idMatch": 35,
+			"localResults": {
+				"goals": 2,
+				"yellowCards": 3,
+				"redCards": 0
+			},
+			"visitorResults": {
+				"goals": 0,
+				"yellowCards": 2,
+				"redCards": 0
+			}
+		},
+		{
+			"idMatch": 36,
+			"localResults": {
+				"goals": 0,
+				"yellowCards": 3,
+				"redCards": 0
+			},
+			"visitorResults": {
+				"goals": 1,
+				"yellowCards": 1,
 				"redCards": 0
 			}
 		}
