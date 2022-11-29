@@ -459,19 +459,6 @@
 		{
 			"idMatch": 35,
 			"localResults": {
-				"goals": 2,
-				"yellowCards": 3,
-				"redCards": 0
-			},
-			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
-			}
-		},
-		{
-			"idMatch": 36,
-			"localResults": {
 				"goals": 0,
 				"yellowCards": 3,
 				"redCards": 0
