@@ -494,6 +494,32 @@
 				"yellowCards": 1,
 				"redCards": 0
 			}
+		},
+		{
+			"idMatch": 38,
+			"localResults": {
+				"goals": 0,
+				"yellowCards": 1,
+				"redCards": 0
+			},
+			"visitorResults": {
+				"goals": 2,
+				"yellowCards": 1,
+				"redCards": 0
+			}
+		},
+		{
+			"idMatch": 39,
+			"localResults": {
+				"goals": 1,
+				"yellowCards": 6,
+				"redCards": 0
+			},
+			"visitorResults": {
+				"goals": 2,
+				"yellowCards": 1,
+				"redCards": 0
+			}
 		}
 	]
 }
