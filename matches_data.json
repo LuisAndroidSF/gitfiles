@@ -85,7 +85,8 @@
 			"idMatch": 8,
 			"localResults": {
 				"yellowCards": 1
-			}
+			},
+			"visitorResults": {}
 		},
 		{
 			"idMatch": 9,
@@ -328,7 +329,8 @@
 			"localResults": {
 				"goals": 2,
 				"yellowCards": 1
-			}
+			},
+			"visitorResults": {}
 		},
 		{
 			"idMatch": 34,
@@ -355,7 +357,8 @@
 			"localResults": {
 				"goals": 1,
 				"yellowCards": 1
-			}
+			},
+			"visitorResults": {}
 		},
 		{
 			"idMatch": 37,
@@ -390,6 +393,7 @@
 		},
 		{
 			"idMatch": 40,
+			"localResults": {},
 			"visitorResults": {
 				"yellowCards": 1
 			}
