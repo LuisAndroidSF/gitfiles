@@ -188,7 +188,9 @@
 			}
 		},
 		{
-			"idMatch": 19
+			"idMatch": 19,
+			"localResults": {},
+			"visitorResults": {}
 		},
 		{
 			"idMatch": 20,
