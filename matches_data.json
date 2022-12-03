@@ -5,520 +5,387 @@
 			"idMatch": 0,
 			"localResults": {
 				"goals": 0,
-				"yellowCards": 4,
-				"redCards": 0
+				"yellowCards": 4
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 1,
 			"localResults": {
-				"goals": 6,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 6
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 2,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 3,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 4,
-				"redCards": 0
+				"yellowCards": 4
 			},
 			"visitorResults": {
 				"goals": 1,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 4,
 			"localResults": {
-				"goals": 1,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 1
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 6,
-				"redCards": 0
+				"yellowCards": 6
 			}
 		},
 		{
 			"idMatch": 5,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 6,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 7,
 			"localResults": {
-				"goals": 4,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 4
 			},
 			"visitorResults": {
 				"goals": 1,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			}
 		},
 		{
 			"idMatch": 8,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
-			},
-			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 0,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 9,
 			"localResults": {
-				"goals": 1,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 1
 			},
 			"visitorResults": {
-				"goals": 2,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 2
 			}
 		},
 		{
 			"idMatch": 10,
 			"localResults": {
-				"goals": 7,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 7
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 11,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 12,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 13,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 14,
 			"localResults": {
 				"goals": 3,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 4,
-				"redCards": 0
+				"yellowCards": 4
 			}
 		},
 		{
 			"idMatch": 15,
 			"localResults": {
-				"goals": 2,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 2
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			}
 		},
 		{
 			"idMatch": 16,
 			"localResults": {
-				"goals": 0,
 				"yellowCards": 1,
 				"redCards": 1
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 17,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			},
 			"visitorResults": {
 				"goals": 3,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			}
 		},
 		{
 			"idMatch": 18,
 			"localResults": {
-				"goals": 1,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 1
 			},
 			"visitorResults": {
 				"goals": 1,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
-			"idMatch": 19,
-			"localResults": {
-				"goals": 0,
-				"yellowCards": 0,
-				"redCards": 0
-			},
-			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 0,
-				"redCards": 0
-			}
+			"idMatch": 19
 		},
 		{
 			"idMatch": 20,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			},
 			"visitorResults": {
-				"goals": 1,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 1
 			}
 		},
 		{
 			"idMatch": 21,
 			"localResults": {
 				"goals": 2,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 22,
 			"localResults": {
 				"goals": 2,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			},
 			"visitorResults": {
 				"goals": 1,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 23,
 			"localResults": {
 				"goals": 2,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 4,
-				"redCards": 0
+				"yellowCards": 4
 			}
 		},
 		{
 			"idMatch": 24,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			},
 			"visitorResults": {
 				"goals": 1,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			}
 		},
 		{
 			"idMatch": 25,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 26,
 			"localResults": {
 				"goals": 4,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
 				"goals": 1,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 27,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			},
 			"visitorResults": {
 				"goals": 1,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			}
 		},
 		{
 			"idMatch": 28,
 			"localResults": {
 				"goals": 3,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
 				"goals": 3,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 29,
 			"localResults": {
 				"goals": 2,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
 				"goals": 3,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 30,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 31,
 			"localResults": {
 				"goals": 2,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			}
 		},
 		{
 			"idMatch": 32,
 			"localResults": {
-				"goals": 1,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 1
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 33,
 			"localResults": {
 				"goals": 2,
-				"yellowCards": 1,
-				"redCards": 0
-			},
-			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 0,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 34,
 			"localResults": {
 				"goals": 0,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
-				"goals": 3,
-				"yellowCards": 0,
-				"redCards": 0
+				"goals": 3
 			}
 		},
 		{
 			"idMatch": 35,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 3,
-				"redCards": 0
+				"yellowCards": 3
 			},
 			"visitorResults": {
 				"goals": 1,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 36,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 1,
-				"redCards": 0
-			},
-			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 0,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 37,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 2,
-				"redCards": 0
+				"yellowCards": 2
 			},
 			"visitorResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 38,
 			"localResults": {
-				"goals": 0,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		},
 		{
 			"idMatch": 39,
 			"localResults": {
 				"goals": 1,
-				"yellowCards": 6,
-				"redCards": 0
+				"yellowCards": 6
 			},
 			"visitorResults": {
 				"goals": 2,
-				"yellowCards": 1,
-				"redCards": 0
+				"yellowCards": 1
 			}
 		}
 	]
