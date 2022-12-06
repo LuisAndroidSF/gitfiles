@@ -533,6 +533,16 @@
 				"goals": 1,
 				"yellowCards": 1
 			}
+		},
+		{
+			"idMatch": 54,
+			"localResults": {
+				"extraGoals": 3,
+				"yellowCards": 1
+			},
+			"visitorResults": {
+				"yellowCards": 1
+			}
 		}
 	]
 }
