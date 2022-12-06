@@ -515,10 +515,12 @@
 		{
 			"idMatch": 52,
 			"localResults": {
-				"goals": 1
+				"goals": 1,
+				"extraGoals": 1
 			},
 			"visitorResults": {
 				"goals": 1,
+				"extraGoals": 3,
 				"yellowCards": 2
 			}
 		},
