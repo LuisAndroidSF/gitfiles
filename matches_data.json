@@ -567,6 +567,20 @@
 				"extraGoals": 2,
 				"yellowCards": 3
 			}
+		},
+		{
+			"idMatch": 57,
+			"localResults": {
+				"goals": 2,
+				"extraGoals": 3,
+				"yellowCards": 6,
+				"redCards": 1
+			},
+			"visitorResults": {
+				"goals": 2,
+				"extraGoals": 4,
+				"yellowCards": 8
+			}
 		}
 	]
 }
