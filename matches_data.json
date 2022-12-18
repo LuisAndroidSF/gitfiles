@@ -1,5 +1,5 @@
 {
-	"version": 12162117,
+	"version": 12181000,
 	"list": [
 		{
 			"idMatch": 0,
@@ -621,6 +621,16 @@
 			},
 			"visitorResults": {
 				"yellowCards": 1
+			}
+		},
+		{
+			"idMatch": 62,
+			"localResults": {
+				"goals": 2
+			},
+			"visitorResults": {
+				"goals": 1,
+				"yellowCards": 2
 			}
 		}
 	]
